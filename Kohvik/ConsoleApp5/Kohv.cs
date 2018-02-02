@@ -10,7 +10,7 @@ namespace ConsoleApp5
     {
         public string Nimi;
         public double Hind;
-        public double Deafult_Price;
+        public double Default_Price;
         public string Suurus;
 
         //public virtual String Telli_kohvi()

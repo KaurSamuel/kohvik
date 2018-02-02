@@ -11,7 +11,7 @@ namespace ConsoleApp5
         public cappuccino()
         {
             Nimi = "Cappuccino";
-            Deafult_Price = 3;
+            Default_Price = 3;
         }
     }
 }

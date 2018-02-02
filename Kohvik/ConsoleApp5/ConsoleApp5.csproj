@@ -45,9 +45,12 @@
     <Compile Include="kohvid\cappuccino.cs" />
     <Compile Include="kohvid\Kaffe Late.cs" />
     <Compile Include="kohvid\Must kohvi.cs" />
-    <Compile Include="Kohvik.cs" />
+    <Compile Include="Kohv.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Toidud folder\õunakook.cs" />
+    <Compile Include="Toidud.cs" />
+    <Compile Include="Toidud folder\Salat.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>

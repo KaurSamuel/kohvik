@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp5
 {
-    class Must_kohv: Kohv
+    class Toidud
     {
-        public Must_kohv()
-        {
-            Nimi = "Must kohv";
-            Default_Price = 2;
-        }
+        public string nimi;
+        public double hind;
     }
 }

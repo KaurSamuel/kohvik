@@ -11,7 +11,7 @@ namespace ConsoleApp5
         public Kaffe_Late()
         {
             Nimi = "Kaffe Late";
-            Deafult_Price = 1;
+            Default_Price = 1;
         }
 
 
