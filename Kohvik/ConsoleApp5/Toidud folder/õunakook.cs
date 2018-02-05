@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp5
 {
-    class õunakook: Toidud
+    class õunakook: Kohv
     {
         public õunakook()
         {
-            hind = 3.5;
-            nimi = "Õunakook";
+            Nimi = "Õunakook";
         }
     }
 }

@@ -5,3 +5,10 @@ C:\Users\opilane\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\obj\Debug\ConsoleApp
 C:\Users\opilane\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 C:\Users\opilane\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 C:\Users\opilane\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\kaurs\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\kaurs\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\kaurs\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\kaurs\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\kaurs\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\kaurs\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\kaurs\Documents\GitHub\kohvik\Kohvik\ConsoleApp5\bin\Debug\ConsoleApp5.pdb

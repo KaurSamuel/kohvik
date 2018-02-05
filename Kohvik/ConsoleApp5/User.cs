@@ -12,7 +12,7 @@ namespace ConsoleApp5
         public List<Kohv> Shopping_cart = new List<Kohv>();      
         public User()
         {
-            Balance = 0;
+            Balance = 10;
             //Shopping_cart.Add(new Kaffe_Late());
         }
         

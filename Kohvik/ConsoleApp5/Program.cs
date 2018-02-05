@@ -28,6 +28,13 @@ namespace ConsoleApp5
                     }
 
                 }
+                if (vastus=="4")
+                {
+                    foreach (var TOODE in User.Shopping_cart)
+                    {
+                        Console.WriteLine("|"+TOODE.Nimi+"|");
+                    }
+                }
                 if (vastus == "1")
                 {
                     var KaffeLatte = new Kaffe_Late();
@@ -69,9 +76,18 @@ namespace ConsoleApp5
                 if (vastus == "2")
                 {
                     var salat = new Salat();
-                    var õunakook = new õunakook();
-                    var test = new Toidud();
+                    var õunakook = new õunakook();                    
                     Console.WriteLine("Mida te osta tahate?");
+                    Console.WriteLine("1. Salat");
+                    Console.WriteLine("2. Õunakook");
+                    string valik = Console.ReadLine();
+                    if (valik== "2")
+                    {
+                        User.Balance -= salat.hind;
+                        User.Shopping_cart.Add(õunakook);
+
+                    }
+
                 }
             }
         }       
